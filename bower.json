@@ -1,0 +1,11 @@
+{
+  "name": "Chris Gulp Testing",
+  "description": "Gulp Testing",
+  "main": "index.js",
+  "authors": [
+    "Chris Phillips"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/simpulton/eggly",
+  "moduleType": []
+}
